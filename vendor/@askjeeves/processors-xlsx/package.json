@@ -1,0 +1,20 @@
+{
+	"name": "@askjeeves/processors-xlsx",
+	"version": "0.1.0",
+	"type": "module",
+	"exports": {
+		".": "./src/index.ts"
+	},
+	"scripts": {
+		"test": "vitest run",
+		"lint": "biome check ."
+	},
+	"dependencies": {
+		"@askjeeves/conversion-core": "file:../conversion-core",
+		"@askjeeves/processors-csv-json": "file:../processors-csv-json",
+		"exceljs": "^4.4.0"
+	},
+	"devDependencies": {
+		"vitest": "^3.2.6"
+	}
+}

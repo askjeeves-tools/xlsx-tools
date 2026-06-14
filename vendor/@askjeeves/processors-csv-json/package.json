@@ -1,0 +1,20 @@
+{
+	"name": "@askjeeves/processors-csv-json",
+	"version": "0.1.0",
+	"type": "module",
+	"exports": {
+		".": "./src/index.ts"
+	},
+	"scripts": {
+		"test": "vitest run",
+		"lint": "biome check ."
+	},
+	"dependencies": {
+		"@askjeeves/conversion-core": "file:../conversion-core",
+		"papaparse": "^5.5.3"
+	},
+	"devDependencies": {
+		"@types/papaparse": "^5.3.16",
+		"vitest": "^3.2.6"
+	}
+}
