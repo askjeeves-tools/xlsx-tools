@@ -1,0 +1,30 @@
+# Free Secure Excel Converter — Ask Jeeves
+
+> Free, secure Excel converter. Convert XLSX to CSV or JSON in your browser—files never leave your device.
+
+## Tool
+
+- [Free Secure Excel Converter](https://xlsx.askjeeves.cc/): Convert XLSX to CSV or JSON in your browser
+
+## Supported conversions
+
+- XLSX → CSV
+- XLSX → JSON
+
+## FAQ
+
+- Is this Excel converter free? Yes. Every conversion is free with no account, watermark, or usage limit.
+- Is this Excel converter secure? Yes. Files are processed locally in your browser. Nothing is uploaded to a server, so your spreadsheets stay on your device.
+- What formats can I convert XLSX to? You can convert XLSX (Excel) files to CSV or JSON. Both options support an optional sheet name; if omitted, the first worksheet is used.
+- Can I choose which worksheet to convert? Yes. Enter a sheet name in the options before converting. If you leave it blank, the converter uses the first sheet in the workbook.
+- Does the converter work on mobile? Yes. It runs in modern mobile browsers that support HTML5 and JavaScript. Very large files may be slower on mobile devices.
+- What is the maximum file size? Each file can be up to about 50 MB. If a file is too large, you will see a clear error message asking you to use a smaller file.
+- Why did my conversion fail? Common causes are a non-XLSX file, corrupted workbook data, or exceeding the size limit. Check the message below the converter for specific guidance, then try again or refresh the page.
+
+## Extended context
+
+- [Full site context](https://xlsx.askjeeves.cc/llms-full.txt): how-it-works, security, and per-conversion details
+
+## More tools
+
+- [Ask Jeeves](https://askjeeves.cc): Free file conversion tools (PDF, images, CSV/JSON/Excel, Word)
